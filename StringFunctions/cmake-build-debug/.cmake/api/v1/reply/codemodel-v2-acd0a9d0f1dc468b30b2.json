@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/bree/repositories/C-Programs/StringFunctions/cmake-build-debug",
-		"source" : "/home/bree/repositories/C-Programs/StringFunctions"
+		"build" : "/home/bree/repositories/C-Programming/StringFunctions/cmake-build-debug",
+		"source" : "/home/bree/repositories/C-Programming/StringFunctions"
 	},
 	"version" : 
 	{

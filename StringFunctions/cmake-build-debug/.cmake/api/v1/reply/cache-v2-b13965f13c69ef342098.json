@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/bree/repositories/C-Programs/StringFunctions/cmake-build-debug"
+			"value" : "/home/bree/repositories/C-Programming/StringFunctions/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bree/repositories/C-Programs/StringFunctions/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/bree/repositories/C-Programming/StringFunctions/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/bree/repositories/C-Programs/StringFunctions"
+			"value" : "/home/bree/repositories/C-Programming/StringFunctions"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bree/repositories/C-Programs/StringFunctions/cmake-build-debug"
+			"value" : "/home/bree/repositories/C-Programming/StringFunctions/cmake-build-debug"
 		},
 		{
 			"name" : "StringFunctions_IS_TOP_LEVEL",
@@ -1175,7 +1175,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bree/repositories/C-Programs/StringFunctions"
+			"value" : "/home/bree/repositories/C-Programming/StringFunctions"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
