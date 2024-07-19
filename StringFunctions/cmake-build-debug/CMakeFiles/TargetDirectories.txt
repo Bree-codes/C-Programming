@@ -1,0 +1,3 @@
+/home/bree/repositories/C-Programs/StringFunctions/cmake-build-debug/CMakeFiles/StringFunctions.dir
+/home/bree/repositories/C-Programs/StringFunctions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bree/repositories/C-Programs/StringFunctions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
