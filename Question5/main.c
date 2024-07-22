@@ -8,12 +8,12 @@ int main() {
     // Prompt the user to enter the filename
     printf("Enter the filename: ");
     scanf("%s", filename);
-    getchar(); // Consume the newline character left by scan f
+    getchar(); // Consume the newline character left by scanf
 
     // Open the file for writing
     fptr = fopen(filename, "w");
     if (fptr == NULL) {
-        // If the file cannot be opened, print an error message using p error and exit
+        // If the file cannot be opened, print an error message using perror and exit
         perror("Error opening file for writing");
         return 1;
     }
@@ -30,7 +30,7 @@ int main() {
     // Open the file for reading
     fptr = fopen(filename, "r");
     if (fptr == NULL) {
-        // If the file cannot be opened, print an error message using p error and exit
+        // If the file cannot be opened, print an error message using perror and exit
         perror("Error opening file for reading");
         return 1;
     }
