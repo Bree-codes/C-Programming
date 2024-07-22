@@ -36,7 +36,7 @@ int main() {
     }
 
     // Print the content of the file
-    printf("Content of the file:\n");
+    printf("Content of the file:");
     // Read each line from the file and print it until the end of the file is reached
     while (fgets(str, 100, fptr) != NULL) {
         printf("%s", str);
