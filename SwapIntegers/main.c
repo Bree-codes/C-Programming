@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 //function for swapping 2 integers
+//* is used to dereference(getting the value of the address that the pointer is pointing to)
 void swap(int *a,int *b){
 
     int temp = *a;
