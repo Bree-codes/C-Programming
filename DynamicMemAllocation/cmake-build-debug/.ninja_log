@@ -1,0 +1,5 @@
+# ninja log v6
+1	45	1722583260909604646	CMakeFiles/DynamicMemAllocation.dir/main.c.o	e4b18a4ad68540af
+45	72	1722583260953604101	DynamicMemAllocation	1c53deca36bf5e36
+1	42	1722586122715163584	CMakeFiles/DynamicMemAllocation.dir/main.c.o	e4b18a4ad68540af
+43	71	1722586122759162971	DynamicMemAllocation	1c53deca36bf5e36
