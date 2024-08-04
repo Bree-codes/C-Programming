@@ -1,0 +1,3 @@
+Hello class!
+Let's learn system calls.
+In this case we're opening the file(input.txt) reading its content and displaying it.
