@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "OpenAndReadFile"
+			"value" : "OpenAndReadFile.txt"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1012,6 +1012,42 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
+		},
+		{
+			"name" : "OpenAndReadFile.txt_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/bree/repositories/C-Programming/SystemCalls/OpenAndReadFile/cmake-build-debug"
+		},
+		{
+			"name" : "OpenAndReadFile.txt_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "OpenAndReadFile.txt_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/bree/repositories/C-Programming/SystemCalls/OpenAndReadFile"
 		},
 		{
 			"name" : "OpenAndReadFile_BINARY_DIR",

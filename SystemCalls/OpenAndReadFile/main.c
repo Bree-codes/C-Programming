@@ -12,7 +12,7 @@ int main(int argc,char* argv[]) {
         ssize_t fileRead = read(fd, buf, BUF_SIZE - 1);
 
         while (fileRead > 0) {
-            buf[fileRead] = '0';
+            buf[fileRead] = '\0';
             printf("%s\n", buf);
             fileRead = read(fd, buf, BUF_SIZE - 1);
         }
