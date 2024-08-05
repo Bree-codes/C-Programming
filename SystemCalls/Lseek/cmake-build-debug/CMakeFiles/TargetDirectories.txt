@@ -1,0 +1,3 @@
+/home/bree/repositories/C-Programming/SystemCalls/Lseek/cmake-build-debug/CMakeFiles/Lseek.dir
+/home/bree/repositories/C-Programming/SystemCalls/Lseek/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bree/repositories/C-Programming/SystemCalls/Lseek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
