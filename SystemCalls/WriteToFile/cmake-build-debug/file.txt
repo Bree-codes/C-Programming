@@ -1,0 +1,2 @@
+Hello all and welcome to my class.
+Today I'll be taking you through system calls in C Programming!
