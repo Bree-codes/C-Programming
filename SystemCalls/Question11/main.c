@@ -9,7 +9,7 @@ int main() {
     // Check if the file was successfully opened/created
     if (fd == -1) {
         // Print an error message if the file could not be opened/created
-        perror("open");
+        perror("Error opening file ");
         // Return 1 to indicate an error
         return 1;
     }
