@@ -1,0 +1,3 @@
+/home/bree/repositories/C-Programming/SystemCalls/Question12/cmake-build-debug/CMakeFiles/Question12.dir
+/home/bree/repositories/C-Programming/SystemCalls/Question12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bree/repositories/C-Programming/SystemCalls/Question12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
