@@ -25,7 +25,7 @@ int main() {
         perror("Error opening file for reading");
         return 1;
     }
-
+    
     // Read the string from the file
     if (fgets(buffer, sizeof(buffer), file) != NULL) {
         printf("Read from file: %s", buffer);
