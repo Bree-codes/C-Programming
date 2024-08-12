@@ -6,11 +6,11 @@ int main(void) {
         perror("Error Opening File:");
         return 1;
     }
-    printf("File opened successfully!\n");
+    printf("File Opened successfully!\n");
 
-    fprintf(file,"Hello guys,welcome to our first class.I'm excited to have you all here.\n");
+    //fprintf(file,"Hello guys,welcome to our first class.I'm excited to have you all here.\n");
 
-    printf("File successfully written to.\n");
+    //printf("File successfully written to.\n");
 
 
     printf("This is the file content: ");
