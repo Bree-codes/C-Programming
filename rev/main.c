@@ -12,7 +12,6 @@ int main(void) {
 
     //printf("File successfully written to.\n");
 
-
     printf("This is the file content: ");
     //reading from the file,we first place the file content in a buffer before displaying it to the user.
     char buffer[100];
