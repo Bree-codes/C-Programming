@@ -12,4 +12,5 @@ int main() {
     wait(NULL);
     lseek(fd, -7, SEEK_CUR);
     write(fd, "planet!\n", 8);printf("Curr pos: %ld\n", lseek(fd, 0, SEEK_CUR));
+
 }
